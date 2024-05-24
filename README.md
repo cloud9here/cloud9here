@@ -9,15 +9,15 @@
 </p>
 
 <p align = "center">
-    <a href="https://discord.gg/elifer" target="_blank"> 
-    <img src="https://discord.com/api/guilds/1213550226128765019/widget.json"/>
+    <a href="https://discord.gg/elifers" target="_blank"> 
+    <img src="https://discord.com/api/guilds/1196474088189874276/widget.json"/>
     </a> 
 </p>
 
 <p align = "center">
-    <b>He / Him | Just do coding for fun | I prefer coffee
+    <b>He / Him | Just do coding for fun | I prefer coffee 
     </br>
-    Currently working on learning to  sketch /s</b>
+    Currently learning how to  sketch </b>
 </p>
 
 <p align = "center">
