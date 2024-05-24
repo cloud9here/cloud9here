@@ -9,7 +9,7 @@
 </p>
 
 <p align = "center">
-    <a href="[https://discord.gg/archdev](https://discord.gg/elifer)" target="_blank"> 
+    <a href="https://discord.gg/elifer" target="_blank"> 
     <img src="https://discord.com/api/guilds/1213550226128765019/widget.json"/>
     </a> 
 </p>
