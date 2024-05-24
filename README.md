@@ -10,7 +10,7 @@
 
 <p align = "center">
     <a href="https://discord.gg/archdev" target="_blank"> 
-    <img src="https://discordapp.com/api/guilds/1213550226128765019/widget.png?style=banner2"/>
+    <img src="https://discord.com/api/guilds/1213550226128765019/widget.json"/>
     </a> 
 </p>
 
