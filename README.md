@@ -36,6 +36,6 @@
 
 <p align = "center">
     <a href = "contactme@kushwahji.xyz"><b>Email | </b></a>
-    <a href = "https://discord.com/invite/archdev"><b>Discord | </b></a>
+    <a href = "https://discord.com/invite/archdev"><b>Discord  </b></a>
    
 </p>
