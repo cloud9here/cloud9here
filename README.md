@@ -1,7 +1,7 @@
 <!-- @format -->
 
 <p align = "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Painfuego&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cloud&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
 </p>
 
 <p align = "center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align = "center">
-    <a href="https://discord.gg/archdev" target="_blank"> 
+    <a href="[https://discord.gg/archdev](https://discord.gg/elifer)" target="_blank"> 
     <img src="https://discord.com/api/guilds/1213550226128765019/widget.json"/>
     </a> 
 </p>
