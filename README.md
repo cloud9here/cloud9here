@@ -10,7 +10,7 @@
 
 <p align = "center">
     <a href="https://discord.gg/elifers" target="_blank"> 
-    <img src="[https://discord.com/api/guilds/1196474088189874276/widget.json]"/>
+    <img src="https://discord.com/api/guilds/1196474088189874276/widget.png?style=banner2" />
     </a> 
 </p>
 
