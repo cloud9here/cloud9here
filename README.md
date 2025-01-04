@@ -10,7 +10,7 @@
 
 <p align = "center">
     <a href="https://discord.gg/relationship" target="_blank"> 
-    <img src="https://discord.com/api/guilds/1213550226128765019/widget.png?style=banner2" />
+    <img src="https://discord.com/api/guilds/1227295068013072515/widget.png?style=banner2" />
     </a> 
 </p>
 
@@ -36,6 +36,6 @@
 
 <p align = "center">
     <a href = "contactme@kushwahji.xyz"><b>Email & </b></a>
-    <a href = "https://discord.gg/relationship"><b>Discord  </b></a>
+    <a href = "https://discord.gg/cWdDfZZKKx"><b>Discord  </b></a>
    
 </p>
