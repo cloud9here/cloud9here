@@ -9,7 +9,7 @@
 </p>
 
 <p align = "center">
-    <a href="https://discord.gg/relationship" target="_blank"> 
+    <a href="https://discord.gg/cWdDfZZKKx" target="_blank"> 
     <img src="https://discord.com/api/guilds/1227295068013072515/widget.png?style=banner2" />
     </a> 
 </p>
